@@ -33,7 +33,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 
 | Day | Topic | Key Concepts | Status |
 |-----|-------|-------------|--------|
-| [Day 01](./day-01/README.md) | Creating an AWS EC2 Key Pair | Key pair types, .pem permissions, CLI creation, SSH access | ✅ Done |
+| [Day 01](./days/day-01/README.md) | Creating an AWS EC2 Key Pair | Key pair types, .pem permissions, CLI creation, SSH access | ✅ Done |
 | Day 02 | — | — | ⬜ |
 | Day 03 | — | — | ⬜ |
 | Day 04 | — | — | ⬜ |
