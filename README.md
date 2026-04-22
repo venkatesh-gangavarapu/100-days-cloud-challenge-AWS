@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-5%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-6%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -38,7 +38,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 03](./days/day-03/README.md) | Creating a Subnet in AWS VPC | Public vs private subnets, CIDR planning, route tables, IGW, multi-AZ design | ✅ Done |
 | [Day 04](./days/day-04/README.md) | S3 Bucket Versioning | Versioning states, delete markers, version recovery, lifecycle policy pairing | ✅ Done |
 | [Day 05](./days/day-05/README.md) | Creating an AWS EBS Volume | gp3 vs gp2, AZ scoping, attach/format/mount lifecycle, snapshots, DLM | ✅ Done |
-| Day 06 | — | — | ⬜ |
+| [Day 06](./days/day-06/README.md) | Launching an EC2 Instance | AMI resolution, instance types, CPU credits, stop vs terminate, IMDS, user data | ✅ Done |
 | Day 07 | — | — | ⬜ |
 | Day 08 | — | — | ⬜ |
 | Day 09 | — | — | ⬜ |
