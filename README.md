@@ -40,7 +40,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 05](./days/day-05/README.md) | Creating an AWS EBS Volume | gp3 vs gp2, AZ scoping, attach/format/mount lifecycle, snapshots, DLM | ✅ Done |
 | [Day 06](./days/day-06/README.md) | Launching an EC2 Instance | AMI resolution, instance types, CPU credits, stop vs terminate, IMDS, user data | ✅ Done |
 | [Day 07](./days/day-07/README.md) | Changing EC2 Instance Type | Stop/modify/start lifecycle, status checks, CPU credits, right-sizing strategy | ✅ Done |
-| Day 08 | — | — | ⬜ |
+| [Day 08](./days/day-08/README.md) | EC2 Stop Protection | DisableApiStop vs DisableApiTermination, limits of protection, IAM controls, audit | ✅ Done |
 | Day 09 | — | — | ⬜ |
 | Day 10 | — | — | ⬜ |
 | Day 11 | — | — | ⬜ |
