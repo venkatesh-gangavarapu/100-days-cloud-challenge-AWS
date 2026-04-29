@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-11%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-12%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -44,7 +44,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 09](./days/day-09/README.md) | EC2 Termination Protection | DisableApiTermination, stop vs terminate distinction, ASG impact, Delete on Termination, audit | ✅ Done |
 | [Day 10](./days/day-10/README.md) | Attaching an Elastic IP to EC2 | EIP vs dynamic IP, Allocation vs Association ID, disassociate vs release, failover pattern | ✅ Done |
 | [Day 11](./days/day-11/README.md) | Attaching an ENI to EC2 | Primary vs secondary ENIs, AZ constraint, device index, MAC failover, OS config | ✅ Done |
-| Day 12 | — | — | ⬜ |
+| [Day 12](./days/day-12/README.md) | Attaching an EBS Volume to EC2 | NVMe device naming, AZ constraint, format/mount/fstab lifecycle, nofail, Delete on Termination | ✅ Done |
 | Day 13 | — | — | ⬜ |
 | Day 14 | — | — | ⬜ |
 | Day 15 | — | — | ⬜ |
