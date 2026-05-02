@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-13%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-14%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -46,7 +46,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 11](./days/day-11/README.md) | Attaching an ENI to EC2 | Primary vs secondary ENIs, AZ constraint, device index, MAC failover, OS config | ✅ Done |
 | [Day 12](./days/day-12/README.md) | Attaching an EBS Volume to EC2 | NVMe device naming, AZ constraint, format/mount/fstab lifecycle, nofail, Delete on Termination | ✅ Done |
 | [Day 13](./days/day-13/README.md) | Creating an AMI from an EC2 Instance | AMI vs snapshot, no-reboot flag, available state, deregister + cleanup, golden AMI pipeline | ✅ Done |
-| Day 14 | — | — | ⬜ |
+| [Day 14](./days/day-14/README.md) | Terminating an EC2 Instance | Stop vs terminate, DeleteOnTermination, EIP cleanup, pre-termination checklist, Spot interruptions | ✅ Done |
 | Day 15 | — | — | ⬜ |
 | Day 16 | — | — | ⬜ |
 | Day 17 | — | — | ⬜ |
