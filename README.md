@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-16%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-17%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -49,7 +49,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 14](./days/day-14/README.md) | Terminating an EC2 Instance | Stop vs terminate, DeleteOnTermination, EIP cleanup, pre-termination checklist, Spot interruptions | ✅ Done |
 | [Day 15](./days/day-15/README.md) | Creating an EBS Snapshot | Incremental model, pending vs completed, DLM vs AWS Backup, restore workflow, cross-region copy | ✅ Done |
 | [Day 16](./days/day-16/README.md) | Creating an IAM User | IAM user vs role vs group, least privilege, MFA enforcement, credential report, IAM Identity Center | ✅ Done |
-| Day 17 | — | — | ⬜ |
+| [Day 17](./days/day-17/README.md) | Creating an IAM Group | Groups vs direct attachment, additive permissions, no nesting, group-as-principal limitation, delete order | ✅ Done |
 | Day 18 | — | — | ⬜ |
 | Day 19 | — | — | ⬜ |
 | Day 20 | — | — | ⬜ |
