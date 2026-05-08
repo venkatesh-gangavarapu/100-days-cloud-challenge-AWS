@@ -52,7 +52,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 17](./days/day-17/README.md) | Creating an IAM Group | Groups vs direct attachment, additive permissions, no nesting, group-as-principal limitation, delete order | ✅ Done |
 | [Day 18](./days/day-18/README.md) | Creating an IAM Policy | Policy JSON anatomy, ec2:Describe*, evaluation logic, Policy Simulator, permission boundaries | ✅ Done |
 | [Day 19](./days/day-19/README.md) | Attaching IAM Policy to IAM User | attach vs put-user-policy, ARN resolution, list-entities-for-policy, 10-policy limit, simulation | ✅ Done |
-| [Day 20](./day-20/README.md) | Creating an IAM Role for EC2 | Trust policy vs permission policy, Instance Profile, IMDS credential flow, STS AssumeRole | ✅ Done |
+| [Day 20](./days/day-20/README.md) | Creating an IAM Role for EC2 | Trust policy vs permission policy, Instance Profile, IMDS credential flow, STS AssumeRole | ✅ Done |
 | Day 21–100 | *(rolling updates)* | — | ⬜ |
 
 ---
