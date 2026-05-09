@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-20%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-21%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -21,8 +21,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 
 | Phase | Days | Focus Area | Status |
 |-------|------|------------|--------|
-| **Phase 1** | 1 – 20 | AWS Foundations (IAM, EC2, VPC, S3, CLI) | 🟡 In Progress |
-| **Phase 2** | 21 – 40 | Storage, Databases & Networking (RDS, EFS, ELB, Route 53) | ⬜ Upcoming |
+| **Phase 1** | 1 – 20 | AWS Foundations (IAM, EC2, VPC, S3, CLI) | ✅ Complete  |
+| **Phase 2** | 21 – 40 | Storage, Databases & Networking (RDS, EFS, ELB, Route 53) | 🟡 In Progress |
 | **Phase 3** | 41 – 60 | High Availability & Scaling (Auto Scaling, CloudFront, SQS, SNS) | ⬜ Upcoming |
 | **Phase 4** | 61 – 80 | DevOps on AWS (CodePipeline, ECS, EKS, CloudFormation, Terraform) | ⬜ Upcoming |
 | **Phase 5** | 81 – 100 | Security, Monitoring & Cost Optimization (CloudTrail, GuardDuty, Cost Explorer) | ⬜ Upcoming |
@@ -53,7 +53,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 18](./days/day-18/README.md) | Creating an IAM Policy | Policy JSON anatomy, ec2:Describe*, evaluation logic, Policy Simulator, permission boundaries | ✅ Done |
 | [Day 19](./days/day-19/README.md) | Attaching IAM Policy to IAM User | attach vs put-user-policy, ARN resolution, list-entities-for-policy, 10-policy limit, simulation | ✅ Done |
 | [Day 20](./days/day-20/README.md) | Creating an IAM Role for EC2 | Trust policy vs permission policy, Instance Profile, IMDS credential flow, STS AssumeRole | ✅ Done |
-| Day 21–100 | *(rolling updates)* | — | ⬜ |
+| [Day 21](./days/day-21/README.md) | Launch EC2 + Associate Elastic IP | End-to-end compound workflow, Ubuntu AMI resolution, wait synchronisation, EIP lifecycle | ✅ Done |
 
 ---
 
