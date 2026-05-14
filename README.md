@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-23%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-24%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -56,7 +56,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 21](./days/day-21/README.md) | Launch EC2 + Associate Elastic IP | End-to-end compound workflow, Ubuntu AMI resolution, wait synchronisation, EIP lifecycle | ✅ Done |
 | [Day 22](./days/day-22/README.md) | SSH Key Injection via EC2 User Data | cloud-init, authorized_keys permissions, PermitRootLogin, StrictHostKeyChecking, SSM alternative | ✅ Done |
 | [Day 23](./days/day-23/README.md) | S3 Data Migration: Create Bucket + Sync | s3 sync vs cp, us-east-1 bucket quirk, Block Public Access, dryrun verification, cross-account pattern | ✅ Done |
-| Day 24–100 | *(rolling updates)* | — | ⬜ |
+| [Day 24](./days/day-24/README.md) | Application Load Balancer Setup | ALB + TG + listener wiring, layered SG model, health checks, multi-AZ requirement, HTTPS path | ✅ Done |
+| Day 25–100 | *(rolling updates)* | — | ⬜ |
 ---
 
 ## 🧰 Lab Environment & Tools
