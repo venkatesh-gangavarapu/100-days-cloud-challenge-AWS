@@ -57,7 +57,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 22](./days/day-22/README.md) | SSH Key Injection via EC2 User Data | cloud-init, authorized_keys permissions, PermitRootLogin, StrictHostKeyChecking, SSM alternative | ✅ Done |
 | [Day 23](./days/day-23/README.md) | S3 Data Migration: Create Bucket + Sync | s3 sync vs cp, us-east-1 bucket quirk, Block Public Access, dryrun verification, cross-account pattern | ✅ Done |
 | [Day 24](./days/day-24/README.md) | Application Load Balancer Setup | ALB + TG + listener wiring, layered SG model, health checks, multi-AZ requirement, HTTPS path | ✅ Done |
-| Day 25–100 | *(rolling updates)* | — | ⬜ |
+| [Day 25](./days/day-25/README.md) | EC2 + CloudWatch CPU Alarm + SNS | Period vs EvaluationPeriods, INSUFFICIENT_DATA, treat-missing-data, set-alarm-state testing | ✅ Done |
+| Day 26–100 | *(rolling updates)* | — | ⬜ |
 ---
 
 ## 🧰 Lab Environment & Tools
