@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-28%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-29%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -61,7 +61,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 26](./days/day-26/README.md) | EC2 Web Server: Nginx via User Data | apt-get update requirement, start vs enable, timing buffer, diagnostic chain, custom AMI vs User Data | ✅ Done |
 | [Day 27](./days/day-27/README.md) | Custom Public VPC + Subnet + EC2 | 5-component public subnet stack, route table association, auto-assign IP, DNS hostnames, cleanup order | ✅ Done |
 | [Day 28](./days/day-28/README.md) | ECR: Create Repo, Build Image, Push | ECR auth flow, URI format, tag mutability, lifecycle policies, image scanning, CI/CD integration | ✅ Done |
-| Day 29–100 | *(rolling updates)* | — | ⬜ |
+| [Day 29](./days/day-29/README.md) | VPC Peering: Default ↔ Private VPC | 5-step setup, dual route table updates, ICMP SG rule, non-transitive routing, TGW comparison | ✅ Done |
+| Day 30–100 | *(rolling updates)* | — | ⬜ |
 ---
 
 ## 🧰 Lab Environment & Tools
