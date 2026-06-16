@@ -65,8 +65,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 30](./days/day-30/README.md) | NAT Instance for Private Subnet | Source/dest check, iptables MASQUERADE, AL2023 iptables install, IP forwarding, NAT vs NAT GW | ✅ Done |
 | [Day 31](./days/day-31/README.md) | Private RDS MySQL Instance | Free tier, storage autoscaling, private access, Multi-AZ vs replicas, RDS Proxy, PITR | ✅ Done |
 | [Day 32](./days/day-32/README.md) | RDS Snapshot and Restore | Manual vs automated backups, snapshot states, PITR, cross-account sharing, pre-upgrade validation pattern | ✅ Done |
-| [Day 33](./day/day-33/README.md) | AWS Lambda: Serverless Function | Cold starts, execution role, json.dumps body, concurrency, layers, versioning, X-Ray | ✅ Done |
-| [Day 34](./day-34/README.md) | Lambda from Zip Package via CLI | zip structure/root path, fileb:// vs file://, idempotent role check, update-function-code, S3 deploy | ✅ Done |
+| [Day 33](./days/day-33/README.md) | AWS Lambda: Serverless Function | Cold starts, execution role, json.dumps body, concurrency, layers, versioning, X-Ray | ✅ Done |
+| [Day 34](./days/day-34/README.md) | Lambda from Zip Package via CLI | zip structure/root path, fileb:// vs file://, idempotent role check, update-function-code, S3 deploy | ✅ Done |
 | Day 35–100 | *(rolling updates)* | — | ⬜ |
 
 ---
