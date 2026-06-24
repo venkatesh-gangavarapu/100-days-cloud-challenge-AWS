@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-36%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-37%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -68,8 +68,9 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 33](./days/day-33/README.md) | AWS Lambda: Serverless Function | Cold starts, execution role, json.dumps body, concurrency, layers, versioning, X-Ray | ✅ Done |
 | [Day 34](./days/day-34/README.md) | Lambda from Zip Package via CLI | zip structure/root path, fileb:// vs file://, idempotent role check, update-function-code, S3 deploy | ✅ Done |
 | [Day 35](./days/day-35/README.md) | Private RDS + PHP App Connectivity | SG-as-source for DB tier, initial db-name, mysqli extension, SSH key injection, debug ordering | ✅ Done |
-| [Day 36](./day/day-36/README.md) | EC2 + Nginx Behind ALB (default SG reuse) | Default SG no internet rule by default, SG-as-source swap exercise, default-SG anti-pattern | ✅ Done |
-| Day 37–100 | *(rolling updates)* | — | ⬜ |
+| [Day 36](./days/day-36/README.md) | EC2 + Nginx Behind ALB (default SG reuse) | Default SG no internet rule by default, SG-as-source swap exercise, default-SG anti-pattern | ✅ Done |
+| [Day 37](./days/day-37/README.md) | EC2 IAM Role for S3 Access | Instance profile vs role (CLI gotcha), dual resource ARNs, IMDS credential delivery, least privilege | ✅ Done |
+| Day 38–100 | *(rolling updates)* | — | ⬜ |
 
 ---
 
