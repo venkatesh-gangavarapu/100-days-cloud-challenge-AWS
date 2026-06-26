@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-38%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-39%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -71,7 +71,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 36](./days/day-36/README.md) | EC2 + Nginx Behind ALB (default SG reuse) | Default SG no internet rule by default, SG-as-source swap exercise, default-SG anti-pattern | ✅ Done |
 | [Day 37](./days/day-37/README.md) | EC2 IAM Role for S3 Access | Instance profile vs role (CLI gotcha), dual resource ARNs, IMDS credential delivery, least privilege | ✅ Done |
 | [Day 38](./days/day-38/README.md) | ECR + ECS Fargate Deployment | Task vs service, execution role vs task role, awsvpc networking, assignPublicIp, valid CPU/memory combos | ✅ Done |
-| Day 39–100 | *(rolling updates)* | — | ⬜ |
+| [Day 39](./days/day-39/README.md) | S3 Static Website Hosting | BPA before policy, website vs API endpoint, bucket/* for GetObject, HTTP-only limitation, CloudFront path | ✅ Done |
+| Day 40–100 | *(rolling updates)* | — | ⬜ |
 
 ---
 
