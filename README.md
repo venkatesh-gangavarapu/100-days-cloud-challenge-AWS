@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-43%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-44%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -76,7 +76,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 41](./days/day-41/README.md) | AWS KMS: Encrypt and Decrypt | Base64 ciphertext decode to binary, fileb:// vs file://, 4KB limit, envelope encryption, key deletion waiting period | ✅ Done |
 | [Day 42](./days/day-42/README.md) | DynamoDB: Table, Items, and Verification | DynamoDB JSON format, schemaless design, get-item vs scan, on-demand billing, GSI access patterns | ✅ Done |
 | [Day 43](./days/day-43/README.md) | Amazon EKS: Private Cluster Provisioning | eksClusterRole trust policy, private vs public endpoint, Auto Mode, IRSA, cluster vs node IAM roles | ✅ Done |
-| Day 44–100 | *(rolling updates)* | — | ⬜ |
+| [Day 44](./days/day-44/README.md) | ASG + ALB + Nginx HA Stack | AL2 yum vs AL2023 dnf, ELB health checks, grace period, target tracking, connection draining | ✅ Done |
+| Day 45–100 | *(rolling updates)* | — | ⬜ |
 
 ---
 
