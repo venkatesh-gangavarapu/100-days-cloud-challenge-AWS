@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-45%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-46%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -78,7 +78,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 43](./days/day-43/README.md) | Amazon EKS: Private Cluster Provisioning | eksClusterRole trust policy, private vs public endpoint, Auto Mode, IRSA, cluster vs node IAM roles | ✅ Done |
 | [Day 44](./days/day-44/README.md) | ASG + ALB + Nginx HA Stack | AL2 yum vs AL2023 dnf, ELB health checks, grace period, target tracking, connection draining | ✅ Done |
 | [Day 45](./days/day-45/README.md) | NAT Gateway: Private Subnet Internet Access | NAT GW in public subnet rule, NAT GW vs NAT Instance, S3 Gateway Endpoint alternative, multi-AZ NAT HA | ✅ Done |
-| Day 46–100 | *(rolling updates)* | — | ⬜ |
+| [Day 46](./days/day-46/README.md) | Lambda S3 Copy Trigger + DynamoDB Logging | Event trigger chain, confused deputy, handler string, IAM propagation, DLQ pattern | ✅ Done |
+| Day 47–100 | *(rolling updates)* | — | ⬜ |
 
 ---
 
