@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-47%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-48%2F100-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -80,7 +80,8 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 45](./days/day-45/README.md) | NAT Gateway: Private Subnet Internet Access | NAT GW in public subnet rule, NAT GW vs NAT Instance, S3 Gateway Endpoint alternative, multi-AZ NAT HA | ✅ Done |
 | [Day 46](./days/day-46/README.md) | Lambda S3 Copy Trigger + DynamoDB Logging | Event trigger chain, confused deputy, handler string, IAM propagation, DLQ pattern | ✅ Done |
 | [Day 47](./days/day-47/README.md) | CloudFormation: Priority Queuing (SQS + SNS + Lambda) | CAPABILITY_NAMED_IAM, SNS filter policies, SQS queue policy, iam:PutRolePolicy vs iam:AttachRolePolicy, env var case sensitivity, pull vs push Lambda | ✅ Done |
-| Day 48–100 | *(rolling updates)* | — | ⬜ |
+| [Day 48](./days/day-48/README.md) | CloudFormation: Lambda Function Deployment | ZipFile index.lambda_handler rule, ManagedPolicyArns vs inline Policies, AWSLambdaBasicExecutionRole | ✅ Done |
+| Day 49–100 | *(rolling updates)* | — | ⬜ |
 
 ---
 
