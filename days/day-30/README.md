@@ -620,6 +620,13 @@ In Terraform, both are expressible — `aws_nat_gateway` vs `aws_instance` with 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-nat-share-7486711187976581120-oVAQ/)
+
 ## 📚 Resources
 
 - [AWS Docs — NAT Instances](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html)

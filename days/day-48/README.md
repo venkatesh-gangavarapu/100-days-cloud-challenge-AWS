@@ -195,6 +195,13 @@ The YAML `ZipFile: |` literal block requires consistent indentation for the Pyth
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-cloudformation-share-7486321569313636352-CP4P/)
+
 ## 📚 Resources
 
 - [AWS::Lambda::Function](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-lambda-function.html)

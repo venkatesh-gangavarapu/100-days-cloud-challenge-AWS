@@ -381,6 +381,13 @@ The AWS CLI uses a typed JSON format where every value is wrapped in a type desc
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-dynamodb-share-7482470742106783744-TyVZ/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)

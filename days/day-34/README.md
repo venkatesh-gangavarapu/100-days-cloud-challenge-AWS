@@ -365,6 +365,13 @@ The `source_code_hash` ensures Terraform only redeploys when the actual code cha
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-lambda-share-7472622169731149824-ede9/)
+
 ## 📚 Resources
 
 - [AWS CLI Reference — lambda create-function](https://docs.aws.amazon.com/cli/latest/reference/lambda/create-function.html)

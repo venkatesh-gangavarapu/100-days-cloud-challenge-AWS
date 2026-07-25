@@ -358,6 +358,13 @@ Permissions granted today should be reviewed periodically — quarterly is a com
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-iam-share-7458471190396026881-Ol_4/)
+
 ## 📚 Resources
 
 - [AWS Docs — Attaching IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_manage-attach-detach.html)

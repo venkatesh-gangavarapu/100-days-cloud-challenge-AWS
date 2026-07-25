@@ -318,6 +318,13 @@ The other production pattern worth knowing: in large environments, security grou
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-cloudsecurity-share-7451229740696252420-_cyy/)
+
 ## 📚 Resources
 
 - [AWS Docs — Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)

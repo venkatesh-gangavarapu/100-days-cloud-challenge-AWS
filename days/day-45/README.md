@@ -253,6 +253,13 @@ A common mistake is adding the NAT Gateway route to the VPC's main route table w
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-natgateway-share-7485384260749647872-pb1k/)
+
 ## 📚 Resources
 
 - [AWS Docs — NAT Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)

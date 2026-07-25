@@ -385,6 +385,13 @@ This gives a dry run with real production data, at a fraction of the cost (test 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-rds-share-7468617400473731072-WHOJ/)
+
 ## 📚 Resources
 
 - [AWS Docs — RDS Snapshots](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateSnapshot.html)

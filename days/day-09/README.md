@@ -355,6 +355,13 @@ Together, these three layers ensure protection is on by default, drift is detect
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7486709555209564161-J1uB/)
+
 ## 📚 Resources
 
 - [AWS Docs — Enable Termination Protection](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html#Using_ChangingDisableAPITermination)

@@ -395,6 +395,13 @@ A single CPU alarm is the starting point, not the destination. In production, th
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-cloudwatch-share-7461295402923741184-nUbk/)
+
 ## 📚 Resources
 
 - [AWS Docs — CloudWatch Alarms](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html)

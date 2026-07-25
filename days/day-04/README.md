@@ -287,6 +287,13 @@ A real-world pattern I see often: teams enable versioning after an incident (som
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-s3-share-7451940022322200576-BR5g/)
+
 ## 📚 Resources
 
 - [AWS Docs — Using Versioning in S3 Buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html)

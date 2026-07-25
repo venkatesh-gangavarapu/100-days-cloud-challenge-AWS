@@ -267,6 +267,13 @@ These are the questions that actually come up — in interviews, in on-call revi
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-cloudcomputing-share-7450841594380914688-w8XP/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon EC2 Key Pairs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html)

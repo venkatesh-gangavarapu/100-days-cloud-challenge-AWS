@@ -454,6 +454,13 @@ ECR supports cross-region and cross-account replication. When an image is pushed
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ecr-share-7462189243679879169-TgSp/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html)

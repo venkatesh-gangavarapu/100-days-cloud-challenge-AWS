@@ -485,6 +485,13 @@ For more sophisticated policies, resource conditions using tags enable attribute
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-iam-share-7486710105422614528-q2iQ/)
+
 ## 📚 Resources
 
 - [AWS Docs — IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)

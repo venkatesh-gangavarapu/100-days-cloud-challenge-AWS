@@ -394,6 +394,13 @@ Instance termination sounds like the simplest operation in AWS, but in productio
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7456221881994489856-Tbzp/)
+
 ## 📚 Resources
 
 - [AWS Docs — Terminate an EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html)

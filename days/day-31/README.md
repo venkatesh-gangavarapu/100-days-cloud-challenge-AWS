@@ -357,6 +357,13 @@ RDS takes daily snapshots and stores transaction logs, enabling **Point-In-Time 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-rds-share-7468003272960880640-NIK5/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)

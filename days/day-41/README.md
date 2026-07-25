@@ -359,6 +359,13 @@ The default key policy for a new KMS key grants the AWS account root user full a
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-kms-share-7480605254200332288-OP4D/)
+
 ## 📚 Resources
 
 - [AWS Docs — AWS KMS Developer Guide](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)

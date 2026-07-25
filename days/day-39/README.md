@@ -385,6 +385,13 @@ This gives HTTPS, global CDN caching (drastically reduces latency for global use
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-s3-share-7476162031960915968-uYBR/)
+
 ## 📚 Resources
 
 - [AWS Docs — S3 Static Website Hosting](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)

@@ -401,6 +401,13 @@ For stateful EC2 workloads, the standard DR pattern is: daily DLM snapshot polic
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ebs-share-7486709859531382784-ay2i/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon EBS Snapshots](https://docs.aws.amazon.com/ebs/latest/userguide/EBSSnapshots.html)

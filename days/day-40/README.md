@@ -455,6 +455,13 @@ This exact failure mode — "security group is right, but it's still unreachable
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-troubleshooting-share-7477685438712049664-5bq8/)
+
 ## 📚 Resources
 
 - [AWS Docs — VPC Internet Gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)

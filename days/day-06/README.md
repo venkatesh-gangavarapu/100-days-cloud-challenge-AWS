@@ -391,6 +391,13 @@ The `t2.micro` Free Tier instance is the right starting point for learning. The 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7486709098000949248-pxE3/)
+
 ## 📚 Resources
 
 - [AWS Docs — Launch an EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)

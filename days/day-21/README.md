@@ -440,6 +440,13 @@ The `depends_on` is handled automatically by Terraform's dependency graph — it
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7458762296887234560-Z1XB/)
+
 ## 📚 Resources
 
 - [AWS Docs — Elastic IP Addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)

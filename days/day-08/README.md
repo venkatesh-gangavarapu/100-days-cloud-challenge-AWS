@@ -360,6 +360,13 @@ In Infrastructure-as-Code environments, both `DisableApiStop` and `DisableApiTer
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7453356169391415296-5DqW/)
+
 ## 📚 Resources
 
 - [AWS Docs — Enable Stop Protection](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html#Using_StopProtection)

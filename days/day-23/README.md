@@ -358,6 +358,13 @@ S3 data migration is one of the most common operational tasks in AWS environment
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-s3-share-7460376410583449600-IyoL/)
+
 ## 📚 Resources
 
 - [AWS Docs — create-bucket CLI](https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html)

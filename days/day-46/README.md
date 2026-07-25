@@ -246,6 +246,13 @@ After creating the role and attaching policies, wait 15+ seconds before deployin
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-lambda-share-7485749081420652544-YzyX/)
+
 ## 📚 Resources
 
 - [S3 Event Notifications](https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html)

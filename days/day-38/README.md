@@ -541,6 +541,13 @@ The ECR + ECS Fargate pattern is AWS's fully-managed container platform — the 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ecs-share-7475954328868904961-6eYB/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon ECS on Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html)

@@ -353,6 +353,13 @@ The cluster role (`eksClusterRole`) is for the EKS control plane — it's what E
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-eks-share-7483841336224407552-PU8h/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)

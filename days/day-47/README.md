@@ -335,6 +335,13 @@ This grants broader permissions than a scoped custom policy, but it is necessary
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-cloudformation-share-7486036619171647488-OftT/)
+
 ## Resources
 
 - [CloudFormation Template Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)

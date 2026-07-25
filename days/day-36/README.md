@@ -470,6 +470,13 @@ This is also a good moment to point out: the `default` SG existing in every VPC 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-alb-share-7473365876331868160-lJhw/)
+
 ## 📚 Resources
 
 - [AWS Docs — Default Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/default-custom-security-groups.html)

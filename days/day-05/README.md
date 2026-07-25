@@ -313,6 +313,13 @@ The `gp3` migration story is also worth knowing for interviews: AWS released `gp
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ebs-share-7452305762154061824-yYG6/)
+
 ## 📚 Resources
 
 - [AWS Docs — Amazon EBS Volume Types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)

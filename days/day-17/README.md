@@ -408,6 +408,13 @@ At larger organisations, this group-based model is often replaced or supplemente
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-iam-share-7457375531404001280-SIcf/)
+
 ## 📚 Resources
 
 - [AWS Docs — IAM Groups](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)

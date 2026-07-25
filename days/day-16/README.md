@@ -385,6 +385,13 @@ Create → assign to group (not direct policy) → require MFA → enable creden
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-iam-share-7457044709308256256-iYK0/)
+
 ## 📚 Resources
 
 - [AWS Docs — IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html)

@@ -387,6 +387,13 @@ In Terraform, the equivalent resources are `aws_volume_attachment` (to attach an
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ebs-share-7455198579331215360-eIJk/)
+
 ## 📚 Resources
 
 - [AWS Docs — Attach an EBS Volume](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-attaching-volume.html)

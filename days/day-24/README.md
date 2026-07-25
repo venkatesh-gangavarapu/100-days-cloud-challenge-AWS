@@ -472,6 +472,13 @@ The ALB + Target Group + EC2 pattern is the foundational building block of AWS w
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-alb-share-7460728834393497602-MC-y/)
+
 ## 📚 Resources
 
 - [AWS Docs — Application Load Balancer](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)

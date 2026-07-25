@@ -418,6 +418,13 @@ After creating an IAM role via CLI, there's a 5–15 second propagation delay be
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-lambda-share-7471244247321497600-JRN3/)
+
 ## 📚 Resources
 
 - [AWS Docs — Lambda Getting Started](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)

@@ -349,6 +349,13 @@ When AWS Well-Architected reviews flag VPC issues, it's almost always one of two
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-vpc-share-7451487023955357697-QXJT/)
+
 ## 📚 Resources
 
 - [AWS Docs — VPCs and Subnets](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)

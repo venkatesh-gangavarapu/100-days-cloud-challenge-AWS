@@ -384,6 +384,13 @@ For stateful workloads, scheduled AMI creation is a DR strategy. AWS Data Lifecy
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ami-share-7455667388269645824-nQr_/)
+
 ## 📚 Resources
 
 - [AWS Docs — Create an AMI from an EC2 Instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/creating-an-ami-ebs.html)

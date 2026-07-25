@@ -494,6 +494,13 @@ VPCs created this way are also the foundation for:
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-vpc-share-7461750850135199744-EPUB/)
+
 ## 📚 Resources
 
 - [AWS Docs — VPC with Public Subnet](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario1.html)

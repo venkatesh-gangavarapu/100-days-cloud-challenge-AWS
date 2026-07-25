@@ -466,6 +466,13 @@ An EC2 instance's role can have `sts:AssumeRole` permission allowing it to assum
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-iam-share-7486710333080768513-TCzL/)
+
 ## 📚 Resources
 
 - [AWS Docs — IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)

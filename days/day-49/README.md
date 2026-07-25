@@ -295,6 +295,13 @@ The VPC peering pattern is valuable for cross-VPC database access, microservices
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-vpcpeering-share-7486705252478595072-_8KZ/)
+
 ## 📚 Resources
 
 - [VPC Peering Guide](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)

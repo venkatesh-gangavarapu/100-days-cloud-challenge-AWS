@@ -460,6 +460,13 @@ This stack is the AWS reference architecture for any stateless web application. 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-autoscaling-share-7485024154300190721-h8Bw/)
+
 ## 📚 Resources
 
 - [AWS Docs — Auto Scaling Groups](https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroup.html)

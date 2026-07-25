@@ -380,6 +380,13 @@ The modern recommendation for most web workloads is: use **Route 53 with an Alia
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7454448468963573760-p2Yr/)
+
 ## 📚 Resources
 
 - [AWS Docs — Elastic IP Addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html)

@@ -531,6 +531,13 @@ VPC Peering is the foundational multi-VPC connectivity pattern in AWS. Real-worl
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-vpcpeering-share-7486710921319530496-7bQc/)
+
 ## 📚 Resources
 
 - [AWS Docs — VPC Peering](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)

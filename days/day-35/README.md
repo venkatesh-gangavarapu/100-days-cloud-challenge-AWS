@@ -656,6 +656,13 @@ This task is the classic **two-tier web application** pattern — web/app tier t
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-rds-share-7472976582790266880-0Rnw/)
+
 ## 📚 Resources
 
 - [AWS Docs — Connecting to an RDS MySQL Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToInstance.html)

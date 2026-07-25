@@ -391,6 +391,13 @@ In Terraform, the equivalent is the `aws_network_interface_attachment` resource,
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7454814513700392961-6bG1/)
+
 ## 📚 Resources
 
 - [AWS Docs — Elastic Network Interfaces](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html)

@@ -351,6 +351,13 @@ A common pattern for large-scale right-sizing is to use **Launch Templates with 
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ec2-share-7453013735817805824-KqvD/)
+
 ## 📚 Resources
 
 - [AWS Docs — Change the Instance Type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html)

@@ -530,6 +530,13 @@ The EC2-role-to-S3 pattern is one of the most fundamental access patterns in AWS
 
 ---
 
+---
+
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-iam-share-7475608189003108352-bBmA/)
+
 ## 📚 Resources
 
 - [AWS Docs — IAM Roles for EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html)
