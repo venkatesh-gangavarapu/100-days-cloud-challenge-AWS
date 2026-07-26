@@ -134,7 +134,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 |--|--|
 | **Status** | ✅ Complete |
 | **Days completed** | 50 / 50 |
-| **Certificate** | ![Certificate](https://engineer.kodekloud.com/certificate-verification/51926466-adb1-4191-b2e3-ab78265cf5b6) |
+| **Certificate** | [Certificate](https://engineer.kodekloud.com/certificate-verification/51926466-adb1-4191-b2e3-ab78265cf5b6) |
 | **Duration** | 50 consecutive days |
 
 ### AWS Services Covered Across 50 Days
