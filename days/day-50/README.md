@@ -223,6 +223,13 @@ Each layer must be explicitly grown. Missing any layer means the space exists ph
 
 ---
 
+## 📍 Proof of Work
+
+This learning is documented and shared on LinkedIn:
+- [View on LinkedIn](https://www.linkedin.com/posts/venkatesh-gangavarapu_100daysofcloud-aws-ebs-share-7487082403384176640-K2Gy/)
+
+
+
 ## 📚 Resources
 
 - [AWS Docs — EBS Volume Modification](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-modify-volume.html)
