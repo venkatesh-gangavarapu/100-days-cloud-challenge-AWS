@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-49%2F100-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-50%2F50-blue?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -21,11 +21,11 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 
 | Phase | Days | Focus Area | Status |
 |-------|------|------------|--------|
-| **Phase 1** | 1 – 20 | AWS Foundations (IAM, EC2, VPC, S3, CLI) | ✅ Complete  |
-| **Phase 2** | 21 – 40 | Storage, Databases & Networking (RDS, EFS, ELB, Route 53) | 🟡 In Progress |
-| **Phase 3** | 41 – 60 | High Availability & Scaling (Auto Scaling, CloudFront, SQS, SNS) | ⬜ Upcoming |
-| **Phase 4** | 61 – 80 | DevOps on AWS (CodePipeline, ECS, EKS, CloudFormation, Terraform) | ⬜ Upcoming |
-| **Phase 5** | 81 – 100 | Security, Monitoring & Cost Optimization (CloudTrail, GuardDuty, Cost Explorer) | ⬜ Upcoming |
+| **Phase 1** | 1 – 10 | AWS Foundations (IAM, EC2, VPC, S3, CLI) | ✅ Complete  |
+| **Phase 2** | 11 – 20 | Storage, Databases & Networking (RDS, EFS, ELB, Route 53) | ✅ Complete  |
+| **Phase 3** | 21 – 30 | High Availability & Scaling (Auto Scaling, CloudFront, SQS, SNS) | ✅ Complete  |
+| **Phase 4** | 31 – 40 | DevOps on AWS (CodePipeline, ECS, EKS, CloudFormation, Terraform) | ✅ Complete  |
+| **Phase 5** | 41 – 50 | Security, Monitoring & Cost Optimization (CloudTrail, GuardDuty, Cost Explorer) | ✅ Complete  |
 
 ---
 
@@ -82,7 +82,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 | [Day 47](./days/day-47/README.md) | CloudFormation: Priority Queuing (SQS + SNS + Lambda) | CAPABILITY_NAMED_IAM, SNS filter policies, SQS queue policy, iam:PutRolePolicy vs iam:AttachRolePolicy, env var case sensitivity, pull vs push Lambda | ✅ Done |
 | [Day 48](./days/day-48/README.md) | CloudFormation: Lambda Function Deployment | ZipFile index.lambda_handler rule, ManagedPolicyArns vs inline Policies, AWSLambdaBasicExecutionRole | ✅ Done |
 | [Day 49](./days/day-49/README.md) | Multi-VPC Log Aggregation (VPC Peering + S3) | Both RT updates required, ProxyJump SCP bug, no placeholder uploads, /usr/bin/ in cron, real file content validation | ✅ Done |
-| Day 50–100 | *(rolling updates)* | — | ⬜ |
+| [Day 50](./days/day-50/README.md) | EBS Volume Expansion (Live Resize) | modify-volume + growpart + resize2fs/xfs_growfs, optimizing vs completed state, three-layer model | ✅ Done |
 
 ---
 
