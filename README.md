@@ -122,7 +122,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 ---
 🏆 Challenge Complete — Certificate Earned
 
-/f/100-Days-of-DevOps/cloud-challenge/100-days-cloud-challenge/certificate.jpg
+![Certificate](./certificate.jpg)
 
 *Started: April 2026 | Target Completion: July 2026*
 
@@ -134,7 +134,7 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 |--|--|
 | **Status** | ✅ Complete |
 | **Days completed** | 50 / 50 |
-| **Certificate** | ![Certificate](./certificate.jpg) |
+| **Certificate** | ![Certificate](https://engineer.kodekloud.com/certificate-verification/51926466-adb1-4191-b2e3-ab78265cf5b6) |
 | **Duration** | 50 consecutive days |
 
 ### AWS Services Covered Across 50 Days
