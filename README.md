@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-50%2F50-blue?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-50%2F50-brightgreen?style=for-the-badge)](/)
 [![Phase](https://img.shields.io/badge/Current%20Phase-Phase%201%3A%20AWS%20Foundations-orange?style=for-the-badge)](/)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](/)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
@@ -121,5 +121,47 @@ The goal isn't perfection. It's consistency, depth, and building a track record 
 - 🐙 [GitHub](https://github.com/venkatesh-gangavarapu/100-days-cloud-challenge-AWS) — all code and documentation
 
 ---
-
+🏆 Challenge Complete — Certificate Earned
 *Started: April 2026 | Target Completion: July 2026*
+
+---
+
+## 🏆 Challenge Completed
+
+| | |
+|--|--|
+| **Status** | ✅ Complete |
+| **Days completed** | 50 / 50 |
+| **Certificate** | ![Certificate](./certificate) |
+| **Duration** | 50 consecutive days |
+
+### AWS Services Covered Across 50 Days
+
+| Category | Services |
+|----------|---------|
+| **Compute** | EC2, AMI, EBS, EIP, ENI, ASG, Launch Templates |
+| **Containers** | ECR, ECS Fargate, EKS |
+| **Networking** | VPC, Subnets, IGW, NAT Gateway, NAT Instance, VPC Peering, ALB, Security Groups, Route Tables |
+| **Storage** | S3 (versioning, static website, migration, events), EBS (snapshots, live resize) |
+| **Database** | RDS MySQL (private, snapshots, restore), DynamoDB |
+| **Serverless** | Lambda, API Gateway integration |
+| **Security & IAM** | IAM Users, Groups, Policies, Roles, KMS, Instance Profiles |
+| **Monitoring** | CloudWatch Alarms, SNS |
+| **Infrastructure as Code** | CloudFormation (SQS + SNS + Lambda, Lambda inline, custom resources) |
+| **Messaging** | SQS (priority queuing), SNS (filter policies, subscriptions) |
+
+### Per-Day Deliverables (Every Day)
+
+Each of the 50 days produced:
+- **`README.md`** — Console walkthrough (Method 1) + full CLI script (Method 2) + common mistakes + real-world context + interview Q&A
+- **`commands.sh`** — Standalone executable command reference
+- **`linkedin_post.txt`** — Daily LinkedIn post (published each day)
+
+### Real Failures Documented
+
+This challenge documents what actually happened — not just the happy path:
+- 502 Bad Gateway from Nginx not installed (Day 44) — User Data ran `dnf` on Amazon Linux 2 which uses `yum`
+- `iam:PutRolePolicy` blocked mid-CloudFormation deploy (Days 47–48) — switched to `ManagedPolicyArns`
+- ProxyJump SCP auth failure (Day 49) — `-i KEY_FILE` only applies to destination, not jump host
+- Validator rejected placeholder S3 content (Day 49) — must upload actual log file, not test strings
+- VPC peering route missing on public RT (Day 49) — both route tables must be updated explicitly
