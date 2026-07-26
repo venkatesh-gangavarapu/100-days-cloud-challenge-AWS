@@ -2,7 +2,7 @@
 
 > **Publicly documenting 100 days of hands-on AWS learning — one concept, one lab, one post at a time.**
 
-[![Days Completed](https://img.shields.io/badge/Days%20Completed-50%2F50-brightgreen?style=for-the-badge)](/)
+[![Days Completed](https://img.shields.io/badge/Days%20Completed-50%2F50-brightgreen?style=for-the-badge)](https://engineer.kodekloud.com/certificate-verification/51926466-adb1-4191-b2e3-ab78265cf5b6)
 [![Platform](https://img.shields.io/badge/Platform-KodeKloud%20%7C%20AWS-yellow?style=for-the-badge)](https://engineer.kodekloud.com/signup?referral=64ad88f5803455eea0a89ad5)
 [![LinkedIn](https://img.shields.io/badge/Follow%20Along-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-gangavarapu)
 
